@@ -48,6 +48,8 @@ The objective is to analyze sales performance, product performance, customer pur
 
 ## Dashboard Preview
 
+![Dashboard Preview](dashboard_preview.png)
+
 (Add dashboard screenshot here)
 
 ## Author
